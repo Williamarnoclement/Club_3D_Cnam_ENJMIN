@@ -1,9 +1,9 @@
-# Club 3D Cnam ENJMIN
+# Club 3D
 
 ## About
 
-During the beginning of our school year, I had the opportunity to present different features of the Blender software in the 3D Club of [Cnam ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp).
-I have also set up a system of retransmission of the courses on Youtube.
+During the beginning of our school year, I had the opportunity to present different features of the Blender software in the 3D Club of [a school](https://www.griffure.com/cauchemar).
+I have also set up a replay of the courses on Youtube.
 
 ## [The playlist](https://youtube.com/playlist?list=PLAv6wnn0ldLB7BOpBpYbxgo59YDAdpy-j)
 
