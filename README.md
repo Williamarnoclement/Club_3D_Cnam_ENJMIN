@@ -2,7 +2,7 @@
 
 ## About
 
-During the beginning of our school year, I had the opportunity to present different features of the Blender software in a french video game school.
+During the beginning of our school year, I had the opportunity to teach different features of the Blender software in a french video game school.
 I have also set up a replay of the courses on Youtube.
 
 ## [The playlist](https://youtube.com/playlist?list=PLAv6wnn0ldLB7BOpBpYbxgo59YDAdpy-j)
